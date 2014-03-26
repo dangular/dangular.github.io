@@ -4,5 +4,5 @@ My name is Dan Hayes (github.io/dangular) and I am a free lance web application 
 
 Dangular is my personal github space where I will host personal projects, gists, etc. 
 
-You can learn more about me <a href="wiki/about.html">here</a>.
+You can learn more about me <a href="wiki/About">here</a>.
 
